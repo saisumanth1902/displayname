@@ -1,0 +1,33 @@
+  form {
+    display: inline-block;
+    text-align: left;
+    margin: 10px;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  label {
+    font-size: 18px;
+  }
+  
+  input {
+    margin-left: 10px;
+    font-size: 16px;
+    padding: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button:hover {
+    background-color: #f0f0f0;
+  }
+  
